@@ -1,5 +1,7 @@
 # Albero di Famiglia Barisonzi (1781-2023)
 
+![Scudo araldico di fantasia. Autore: Marcello Barisonzi](images/Barisonzi_crest.svg)
+
 ## Prima Generazione
 
 La famiglia di Mauro Antonio Barisonzi (????-????)
@@ -9,6 +11,7 @@ e Costanza Milanesi (????-????)
 Matrimonio: circa 1780?
 
 Figli:
+
 1. Rosa Maria Barisonzi, [battezzata nel 1781](./battesimo/cava_manara/rosa_maria_barisonzi_1781.jpg) a Cava Manara
 2. Giuseppe Antonio Barisonzi, [battezzato nel 1783](./battesimo/cava_manara/giuseppe_antonio_barisonzi_1783.jpg) a Cava Manara
 3. Carlo Antonio Barisonzi, [battezzato il 18 febbraio 1785](./battesimo/cava_manara/carlo_antonio_barisonzi_1785.jpg) a Cava Manara
@@ -41,9 +44,10 @@ professione: contadina
 Matrimonio: circa 1831?
 
 Figli:
-1. Maria Giovanna Lucia Barisonzi, [nata il 29 luglio 1832](./battesimo/san_martino_siccomario/maria_giovanna_lucia_barisonzi_1832.jpg) e morta il 30 luglio 1832 a San Martino Siccomario 
-2. (senza nome), [nata morta il 29 luglio 1832](./battesimo/san_martino_siccomario/maria_giovanna_lucia_barisonzi_1832.jpg) a San Martino Siccomario 
-3. (senza nome), [nata morta il 29 luglio 1832](./battesimo/san_martino_siccomario/maria_giovanna_lucia_barisonzi_1832.jpg) a San Martino Siccomario 
+
+1. Maria Giovanna Lucia Barisonzi, [nata il 29 luglio 1832](./battesimo/san_martino_siccomario/maria_giovanna_lucia_barisonzi_1832.jpg) e morta il 30 luglio 1832 a San Martino Siccomario
+2. (senza nome), [nata morta il 29 luglio 1832](./battesimo/san_martino_siccomario/maria_giovanna_lucia_barisonzi_1832.jpg) a San Martino Siccomario
+3. (senza nome), [nata morta il 29 luglio 1832](./battesimo/san_martino_siccomario/maria_giovanna_lucia_barisonzi_1832.jpg) a San Martino Siccomario
 4. Maria Giuseppa Barisonzi, [nata il 3 gennaio 1834](./battesimo/san_martino_siccomario/maria_giuseppa_barisonzi_1834.jpg) a San Martino Siccomario
 5. Giuseppe Antonio Barisonzi, [nato il 1 febbraio 1836](./battesimo/san_martino_siccomario/giuseppe_antonio_barisonzi_1836.jpg) e morto il 13 febbraio 1836 a San Martino Siccomario
 6. Giuseppe Antonio Barisonzi, [nato il 30 settembre 1838](./battesimo/san_martino_siccomario/giuseppe_antonio_barisonzi_1838.jpg) a San Martino Siccomario
@@ -61,8 +65,9 @@ professione: contadina
 Matrimonio: [12 gennaio 1879](./atti_matrimonio/san_martino_siccomario/barisonzi_pietro_giovanni_rovati_maria_giuseppa_1879.jpg) a San Martino Siccomario
 
 Figli:
+
 - Giuseppe Barisonzi
-- Giovanni Barisonzi, nato il 26 settembre 1881 a San Martino Siccomario e morto a Pavia nel 1949 
+- Giovanni Barisonzi, nato il 26 settembre 1881 a San Martino Siccomario e morto a Pavia nel 1949
 - Mario Barisonzi, nato il 30 giugno 1896
 - Enrica Barisonzi
 - Giulia Barisonzi
